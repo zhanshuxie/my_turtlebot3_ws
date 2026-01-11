@@ -1,0 +1,30 @@
+[0.852s] Invoking command in '/home/xzs/turtlebot3_ws/build/turtlebot3_dqn': CMAKE_PREFIX_PATH=/home/xzs/turtlebot3_ws/install/turtlebot3_msgs:/home/xzs/turtlebot3_ws/install/turtlebot3:/home/xzs/turtlebot3_ws/install/turtlebot3_simulations:/home/xzs/turtlebot3_ws/install/turtlebot3_bringup:/home/xzs/turtlebot3_ws/install/turtlebot3_node:/home/xzs/turtlebot3_ws/install/turtlebot3_navigation2:/home/xzs/turtlebot3_ws/install/turtlebot3_fake_node:/home/xzs/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/xzs/turtlebot3_ws/install/turtlebot3_gazebo:/home/xzs/turtlebot3_ws/install/turtlebot3_description:/home/xzs/turtlebot3_ws/install/turtlebot3_cartographer:/home/xzs/turtlebot3_ws/install/dynamixel_sdk_examples:/home/xzs/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/xzs/turtlebot3_ws/install/dynamixel_sdk LD_LIBRARY_PATH=/home/xzs/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/xzs/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/xzs/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/xzs/turtlebot3_ws/build/turtlebot3_dqn/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xzs/turtlebot3_ws/build/turtlebot3_dqn/build --no-deps symlink_data
+[1.061s] running develop
+[1.196s] running egg_info
+[1.197s] creating turtlebot3_dqn.egg-info
+[1.197s] writing turtlebot3_dqn.egg-info/PKG-INFO
+[1.197s] writing dependency_links to turtlebot3_dqn.egg-info/dependency_links.txt
+[1.197s] writing entry points to turtlebot3_dqn.egg-info/entry_points.txt
+[1.197s] writing requirements to turtlebot3_dqn.egg-info/requires.txt
+[1.197s] writing top-level names to turtlebot3_dqn.egg-info/top_level.txt
+[1.197s] writing manifest file 'turtlebot3_dqn.egg-info/SOURCES.txt'
+[1.198s] reading manifest file 'turtlebot3_dqn.egg-info/SOURCES.txt'
+[1.199s] writing manifest file 'turtlebot3_dqn.egg-info/SOURCES.txt'
+[1.200s] running build_ext
+[1.200s] Creating /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/python3.10/site-packages/turtlebot3-dqn.egg-link (link to .)
+[1.200s] Installing action_graph script to /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[1.201s] Installing dqn_agent script to /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[1.201s] Installing dqn_environment script to /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[1.201s] Installing dqn_gazebo script to /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[1.201s] Installing dqn_test script to /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[1.201s] Installing result_graph script to /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[1.201s] 
+[1.201s] Installed /home/xzs/turtlebot3_ws/build/turtlebot3_dqn
+[1.201s] running symlink_data
+[1.201s] creating /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/share/ament_index
+[1.201s] creating /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/share/ament_index/resource_index
+[1.201s] creating /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/share/ament_index/resource_index/packages
+[1.201s] symbolically linking /home/xzs/turtlebot3_ws/build/turtlebot3_dqn/resource/turtlebot3_dqn -> /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/share/ament_index/resource_index/packages
+[1.201s] symbolically linking /home/xzs/turtlebot3_ws/build/turtlebot3_dqn/package.xml -> /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/share/turtlebot3_dqn
+[1.201s] creating /home/xzs/turtlebot3_ws/install/turtlebot3_dqn/share/turtlebot3_dqn/launch
+[1.222s] Invoked command in '/home/xzs/turtlebot3_ws/build/turtlebot3_dqn' returned '0': CMAKE_PREFIX_PATH=/home/xzs/turtlebot3_ws/install/turtlebot3_msgs:/home/xzs/turtlebot3_ws/install/turtlebot3:/home/xzs/turtlebot3_ws/install/turtlebot3_simulations:/home/xzs/turtlebot3_ws/install/turtlebot3_bringup:/home/xzs/turtlebot3_ws/install/turtlebot3_node:/home/xzs/turtlebot3_ws/install/turtlebot3_navigation2:/home/xzs/turtlebot3_ws/install/turtlebot3_fake_node:/home/xzs/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/xzs/turtlebot3_ws/install/turtlebot3_gazebo:/home/xzs/turtlebot3_ws/install/turtlebot3_description:/home/xzs/turtlebot3_ws/install/turtlebot3_cartographer:/home/xzs/turtlebot3_ws/install/dynamixel_sdk_examples:/home/xzs/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/xzs/turtlebot3_ws/install/dynamixel_sdk LD_LIBRARY_PATH=/home/xzs/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/xzs/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/xzs/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/xzs/turtlebot3_ws/build/turtlebot3_dqn/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xzs/turtlebot3_ws/install/turtlebot3_dqn/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xzs/turtlebot3_ws/build/turtlebot3_dqn/build --no-deps symlink_data
