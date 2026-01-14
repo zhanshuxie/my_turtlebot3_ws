@@ -3,3 +3,5 @@ devel/
 log/
 install/
 .catkin_workspace
+
+src/turtlebot3_machine_learning/turtlebot3_dqn/saved_model/
